@@ -24,22 +24,4 @@ A complete full-stack web application for managing the TechCompanyDB SQL Server 
 - ✅ RESTful API architecture
 - ✅ Parameterized queries (SQL injection protection)
 
-## 🏗️ Project Structure
-
-```
-techcompany-db-app/
-├── backend/
-│   ├── config/
-│   │   └── database.js       # SQL Server connection configuration
-│   ├── .env                  # Environment variables (update this!)
-│   ├── package.json          # Node.js dependencies
-│   └── server.js             # Main Express server with API endpoints
-├── frontend/
-│   ├── css/
-│   │   └── style.css         # Modern responsive styling
-│   ├── js/
-│   │   └── app.js            # Frontend JavaScript logic
-│   └── index.html            # Main HTML page
-└── README.md                 # This file
-```
 
